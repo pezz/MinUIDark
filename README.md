@@ -9,7 +9,7 @@ Modified version of [Minimulus UI by Jujin](https://wiki.guildwars.com/wiki/User
 - Increased opacity of most things to at least 80%
 - No transparency on tooltips
 - Increased readability of vault, merchant tabs
-- Removed some assets like compass and some font and icons that I didn't like
+- Removed some assets like compass and some fonts and icons that I didn't like
 
 ## Notes
 - Release zip is designed to work with gMod not uMod or Texmod
