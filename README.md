@@ -27,5 +27,5 @@ C:\games\gw\mods\minimulus.zip
 ```
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
