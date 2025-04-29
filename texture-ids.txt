@@ -1,0 +1,20 @@
+0x2d24304d - Loading Bar Box
+0x36c424d1 - Inventory Slots, Party Window BG, Money BG
+0x745c6b29 - Scrollbar
+0x90401eeb - Hero Window Portrait Border
+0x98c098f5 - Chat Background
+0x9f932b27 - Inactive Tab / Chest Tab
+0xa8456db9 - Active Chat Tab
+0xdd995623 - Status Bar Borders
+0xf990aba6 - Inventory / Bag Labels
+
+Flattened bars:
+0x8d93ceab
+0x46e58b8e
+0x833b5913
+0x8797c89
+0x1530627
+0xcb6ec0e8
+0x79a97aba
+0x93d3343
+
