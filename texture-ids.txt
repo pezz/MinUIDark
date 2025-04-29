@@ -1,3 +1,7 @@
+This is just a list of some of the IDs in case you wanted to roll your own.
+
+NB: This is not a complete list.
+
 0x2d24304d - Loading Bar Box
 0x36c424d1 - Inventory Slots, Party Window BG, Money BG
 0x745c6b29 - Scrollbar
